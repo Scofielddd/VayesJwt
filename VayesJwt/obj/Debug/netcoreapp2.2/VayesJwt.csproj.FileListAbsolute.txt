@@ -1,0 +1,14 @@
+C:\Users\bkocadere\source\repos\VayesJwt\VayesJwt\bin\Debug\netcoreapp2.2\VayesJwt.deps.json
+C:\Users\bkocadere\source\repos\VayesJwt\VayesJwt\bin\Debug\netcoreapp2.2\VayesJwt.runtimeconfig.json
+C:\Users\bkocadere\source\repos\VayesJwt\VayesJwt\bin\Debug\netcoreapp2.2\VayesJwt.runtimeconfig.dev.json
+C:\Users\bkocadere\source\repos\VayesJwt\VayesJwt\bin\Debug\netcoreapp2.2\VayesJwt.dll
+C:\Users\bkocadere\source\repos\VayesJwt\VayesJwt\obj\Debug\netcoreapp2.2\VayesJwt.csprojAssemblyReference.cache
+C:\Users\bkocadere\source\repos\VayesJwt\VayesJwt\obj\Debug\netcoreapp2.2\VayesJwt.csproj.CoreCompileInputs.cache
+C:\Users\bkocadere\source\repos\VayesJwt\VayesJwt\obj\Debug\netcoreapp2.2\VayesJwt.RazorAssemblyInfo.cache
+C:\Users\bkocadere\source\repos\VayesJwt\VayesJwt\obj\Debug\netcoreapp2.2\VayesJwt.RazorAssemblyInfo.cs
+C:\Users\bkocadere\source\repos\VayesJwt\VayesJwt\obj\Debug\netcoreapp2.2\VayesJwt.AssemblyInfoInputs.cache
+C:\Users\bkocadere\source\repos\VayesJwt\VayesJwt\obj\Debug\netcoreapp2.2\VayesJwt.AssemblyInfo.cs
+C:\Users\bkocadere\source\repos\VayesJwt\VayesJwt\obj\Debug\netcoreapp2.2\VayesJwt.RazorTargetAssemblyInfo.cache
+C:\Users\bkocadere\source\repos\VayesJwt\VayesJwt\bin\Debug\netcoreapp2.2\VayesJwt.pdb
+C:\Users\bkocadere\source\repos\VayesJwt\VayesJwt\obj\Debug\netcoreapp2.2\VayesJwt.dll
+C:\Users\bkocadere\source\repos\VayesJwt\VayesJwt\obj\Debug\netcoreapp2.2\VayesJwt.pdb
